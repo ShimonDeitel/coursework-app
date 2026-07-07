@@ -1,0 +1,27 @@
+{
+  "identifier": "CourseworkLog",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "$2.99",
+      "familyShareable": false,
+      "internalID": "1",
+      "localizations": [
+        {
+          "description": "Photo attachment per portfolio piece",
+          "displayName": "CourseworkLog Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.courseworklog.pro",
+      "referenceName": "CourseworkLog Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
