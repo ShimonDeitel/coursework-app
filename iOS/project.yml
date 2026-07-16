@@ -35,7 +35,6 @@ targets:
     platform: iOS
     sources:
       - path: CourseworkLogTests
-      - path: CourseworkLog.storekit
     dependencies:
       - target: CourseworkLog
     settings:
